@@ -2,7 +2,7 @@
 
 ## Overview
 
-This tutorial will go over how to host an agent with tools that require human approval, using Amazon Bedrock AgentCore Runtime & Amazon Nova.
+This tutorial will go over how to host an agent with tools that require human approval, using Amazon Bedrock AgentCore Runtime & Anthropic Claude Sonnet 4.5.
 
 ### Tutorial Details
 
