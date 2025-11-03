@@ -34,6 +34,6 @@ Strand's inherent tool `handoff_to_user` will be used to intercept tool calls in
 
 ### Tutorial Key Features
 
-* Hosting STrandsAgents on Amazon Bedrock AgentCore Runtime
+* Hosting Strands Agents on Amazon Bedrock AgentCore Runtime
 * Using Anthropic Claude Sonnet 4.5
 * Using Strands Agents built in "handoff_to_user" functionality for human-in-the-loop
