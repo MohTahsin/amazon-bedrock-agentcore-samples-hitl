@@ -26,7 +26,7 @@ For demonstration purposes, we will  use a Strands Agent using Anthropic Claude 
 
 In our example we will use a very simple agent with two tools: `send_email` and `get_weather`. 
 
-Strand's inherent tool `handoff_to_user` will be user will be used to intercept tool calls in the agent loop. 
+Strand's inherent tool `handoff_to_user` will be used to intercept tool calls in the agent loop. 
 
 <div style="text-align:left">
     <img src="images/architecture_runtime.jpg" width="50%"/>
