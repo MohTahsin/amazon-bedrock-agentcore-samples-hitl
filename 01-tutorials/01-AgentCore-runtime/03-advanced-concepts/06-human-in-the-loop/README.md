@@ -13,7 +13,7 @@ This tutorial will go over how to host an agent with tools that require human ap
 | Agent type          | Single                                                                           |
 | Agentic Framework   | Strands Agents                                                                   |
 | LLM model           | Anthropic Claude Sonnet 4.5                                                      |
-| Tutorial components | Hosting agent on AgentCore Runtime, using a Strands Agent and Amazon Nova        |
+| Tutorial components | Hosting agent on AgentCore Runtime, using a Strands Agent with HITL              |
 | Tutorial vertical   | Cross-vertical                                                                   |
 | Example complexity  | Medium                                                                           |
 | SDK used            | Amazon BedrockAgentCore Python SDK and boto3                                     |
